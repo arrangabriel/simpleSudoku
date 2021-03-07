@@ -1,2 +1,2 @@
 # simpleSudoku
-A simple sudoku game template in the terminal.
+A simple sudoku game template for the terminal.
